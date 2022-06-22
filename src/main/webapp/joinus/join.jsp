@@ -51,10 +51,22 @@ request.setCharacterEncoding("utf-8");
 	<input type="checkbox" name="habit" value="movie" />영화
 	<input type="checkbox" name="habit" value="trip" />여행 <br />
 	
+<<<<<<< HEAD
 <!-- 	학력:
 	<input type="checkbox" name="habit" value="music" />중졸
 	<input type="checkbox" name="habit" value="movie" />대졸
 	<input type="checkbox" name="habit" value="trip" />고졸 <br /> -->
+=======
+    학력 :
+	<input type="checkbox" name="habit" value="music" />중졸
+	<input type="checkbox" name="habit" value="movie" />고졸
+	<input type="checkbox" name="habit" value="trip" />대졸 <br />
+	
+<!-- 	가족관계 :
+	<input type="checkbox" name="habit" value="music" />형제
+	<input type="checkbox" name="habit" value="movie" />자매
+	<input type="checkbox" name="habit" value="trip" />남매 <br /> -->
+>>>>>>> jsplzz
 	
 	<input type="submit" value="확인" />
 </form>
