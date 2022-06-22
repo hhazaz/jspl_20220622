@@ -51,6 +51,11 @@ request.setCharacterEncoding("utf-8");
 	<input type="checkbox" name="habit" value="movie" />영화
 	<input type="checkbox" name="habit" value="trip" />여행 <br />
 	
+	학력:
+	<input type="checkbox" name="habit" value="music" />중졸
+	<input type="checkbox" name="habit" value="movie" />대졸
+	<input type="checkbox" name="habit" value="trip" />고졸 <br />
+	
 	<input type="submit" value="확인" />
 </form>
 </body>
